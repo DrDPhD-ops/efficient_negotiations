@@ -1,0 +1,7 @@
+__pycache__/
+data/
+data.csv
+.DS_Store
+.ipynb_checkpoints/
+latest_silero_models.yml
+output/
